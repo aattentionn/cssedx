@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(209,198,255,0.82);
+    font-family: "Open Sans", sans-serif;
+    margin: auto;
+    width: 75%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#header {
+    width: 75%;
+}
+#header ul{
+    padding-left: 1px;
+}
+
+section {
+    clear: left;
+}
+
+#work {
+    float: left;
+    width: 55%;
+    text-align: left;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 4px;
+
+}
+
+#education {
+    float: right;
+    width: 40%;
+    text-align: left;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 4px;
+
+}
+
+#skills {
+    float: right;
+    width: 40%;
+    text-align: left;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 4px;
+
+}
+
+#about {
+    float: right;
+    width: 40%;
+    text-align: justify;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 4px;
+
+
+}
+
+#footer {
+
+    clear: both;
+    text-align: center;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 4px;
+}

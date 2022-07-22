@@ -1,0 +1,28 @@
+body {
+    background-color: #00ccff;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+.blueback {
+    background-color: #2621e2;
+    color: #bdbdbd;
+}
+
+.greyback {
+    background-color: #bdbdbd;
+    color: #2621e2;
+}
+
+.link1 {
+    color: #6bffe1;
+    text-decoration: underline;
+}
+
+.link2 {
+    color: #949494;
+}
+
+#spaces {
+    padding: 10px;
+}
